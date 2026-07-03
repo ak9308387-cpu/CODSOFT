@@ -1,1 +1,1 @@
-# CODSOFT
+ArmaanBot is a simple rule-based chatbot developed using Python. It interacts with users by responding to predefined inputs such as greetings, questions, and basic conversation. The chatbot runs in the command line and continues the conversation until the user types "exit".
